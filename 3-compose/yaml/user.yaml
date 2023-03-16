@@ -1,0 +1,17 @@
+firstName: Muhamad
+middleName: Ali
+lastName: Nur Zaman
+hobbies:
+  - Coding
+  - Watching Film
+  - Playing Games
+address:
+  street: Jalan Tunjungan
+  city: Surabaya
+  province: Jawa Timur
+  country: Indonesia
+wallet:
+  - type: cash
+    amount: 100000
+  - type: debit
+    amount: 200000
