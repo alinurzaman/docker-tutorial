@@ -16,3 +16,7 @@ docker compose stop
 
 # delete container di compose
 docker compose down
+
+# extend service
+docker compose -f docker-compose.yaml -f dev.yaml create
+docker compose -f docker-compose.yaml -f dev.yaml start
